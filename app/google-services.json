@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916525611252",
+    "project_id": "iot-prueba-lab",
+    "storage_bucket": "iot-prueba-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916525611252:android:72a02152cf04ba3caec6a1",
+        "android_client_info": {
+          "package_name": "com.example.lab7_20200334_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5ZKHPjDCGixNDuz_3ETO_AbpKx1BlqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
